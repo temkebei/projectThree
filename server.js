@@ -8,7 +8,8 @@ app.use(express.urlencoded({
 }));
 app.use(express.json());
 app.use(express.static("public"));
-mongoose.connect('mongodb://localhost/recipe_db', {
+//'mongodb://localhost/recipe_db
+mongoose.connect(process.env.MONGODB_URI, {
   useNewUrlParser: true
 });
 // mongoose.connect('mongodb://localhost/data', { useNewUrlParser: true });
