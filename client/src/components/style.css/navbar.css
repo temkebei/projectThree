@@ -1,0 +1,20 @@
+#navbar {
+    background-color: #232323;
+    font-size: 11px;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.brand-logo {
+    margin-left: 1%;
+}
+
+#dash {
+    font-family: 'Lato', sans-serif;
+    margin-left: 8%;
+}
+
+#logout{
+    font-size: 15px;
+    margin-left: -40%;
+}

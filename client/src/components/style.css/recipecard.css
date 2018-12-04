@@ -1,0 +1,33 @@
+#solopic{
+    margin: 5%;
+    height: 52vh;
+    width: 55vh;
+}
+
+#artistcard{
+    font-family: 'Lato', sans-serif;
+}
+
+
+#button{
+    background-color: #56676A;
+    margin: 1%; 
+    font-family: 'Lato', sans-serif;
+    display: flex;
+}
+
+#moreinfo{
+    font-family: 'Lato', sans-serif;
+    margin-left: 5%;
+}
+
+/* .tweets{
+ margin-left: 75%;
+} */
+
+.twitter{
+
+margin-bottom: 15%;
+margin-left: 20%;
+
+}

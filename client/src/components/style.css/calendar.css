@@ -1,0 +1,12 @@
+a {
+    color: black;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.react-add-to-calendar span {
+    color: black;
+}
+
+.react-add-to-calendar a {
+    color: black;
+}

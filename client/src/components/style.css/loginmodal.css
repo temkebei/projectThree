@@ -1,0 +1,12 @@
+.row{
+    padding: 5%;
+    font-family: 'Lato', sans-serif;
+}
+
+
+#login{
+    background-color: #56676A;
+    font-family: 'Lato', sans-serif;
+    size: 3px;
+    margin-left: 85%;
+}

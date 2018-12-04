@@ -1,0 +1,35 @@
+.recipetlist{
+    font-family: 'Lato', sans-serif;
+}
+
+#more{
+    background-color: #56676A;
+}
+
+
+#card{
+    height: 70.5vh;
+    width: 55vh;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.card-content{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    margin-top: -5%;
+
+}
+#profilepic{
+    height: 45vh;
+    width: 40vh;
+    margin-left: 13.5%;
+    margin-top: 5%;
+   
+
+}
+
+a {
+    color: black ;
+    -webkit-tap-highlight-color: transparent;
+}
