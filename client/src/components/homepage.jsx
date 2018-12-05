@@ -22,9 +22,9 @@ class Homepage extends Component {
     TASTE | WONDERFUL | CAJUN CHICKEN PASTA 
   </Slide>
   <Slide
-    src="image/HotSpanichDip.jpg"
+    src="/avocado-toast.jpg"
     placement="right">
-    HOT | WONDERFUL | Hot-Spanich-Dip
+    HOT | WONDERFUL | Avocado Toast
   </Slide>
 </Slider>
 </div>
