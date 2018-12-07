@@ -3,6 +3,6 @@ const users = require('./users');
 
 
 module.exports= {
-    Recipes:Recipes,
+    recipes:Recipes,
     users:users,
 }

@@ -10,8 +10,10 @@ class DashNav extends Component {
       <nav>
         <div className="nav-wrapper white" id="hello">
           <ul id="nav-mobile" className="hide-on-med-and-down">
-            <li><Link to={"/recipes"} className="black-text">|<h2> RECIPES</h2> | </Link></li>
-            <li><Link to={"/newRecipe"} className="black-text">|<h2> NEW RECIPE</h2> |</Link></li>
+            <li><Link to={"/recipes"} className="black-text">| RECIPES | </Link></li>
+            <li><Link to={"/newRecipe"} className="black-text">| NEW RECIPE |</Link></li>
+            <li><Link to={"/otherRecipes"} className="black-text">| SEARCH RECIPE | </Link></li>
+
           </ul>
         </div>
       </nav>

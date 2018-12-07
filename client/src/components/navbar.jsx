@@ -7,7 +7,7 @@ class NavBar extends Component {
       <div>
         <nav>
           <div className="nav-wrapper" id="navbar">
-            <a href="/" className="brand-logo">RecipesApp</a>
+            <a href="/" className="brand-logo">Recipes-App</a>
             <a href="#" data-target="mobile-demo" className="sidenav-trigger"><i className="material-icons">menu</i></a>
             <ul id="nav-mobile" className="right hide-on-med-and-down">
               {this.props.isAuthed ?

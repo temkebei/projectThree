@@ -7,7 +7,7 @@ import Calendar from './calendar';
 
 class Recipecard extends Component {
     state = {
-        tweets:[]
+        recipe_data:[]
     }
     
     componentDidMount() {
